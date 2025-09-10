@@ -1,0 +1,14 @@
+{
+  "name": "legalease-ai-service",
+  "version": "1.0.0",
+  "description": "AI service for LegalEase using Claude/Anthropic",
+  "main": "aiClient.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  },
+  "type": "commonjs"
+}
